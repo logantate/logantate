@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @logantate
-- Biostatistician and Data Manager for Genome Canada Transplant Consortium (https://www.gctransplant.ca/) 
+- 👋 Hi, I’m @logantate 
 - Email me at drlrtate@gmail.com
 
 <!---
